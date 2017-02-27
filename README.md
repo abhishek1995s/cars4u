@@ -1,3 +1,2 @@
 # cars4u
-This is a car finder website developed in php.It uses ajax techonology to fetch from database so as to save reloading time as 
-well as bandwidth.
+acars4u is a car selection website which helps users to identify car apt to their requirements and budget. This developed on php 5.5 and could be run on lamp or wamp server. The database as well as images required for the smooth execution is also provided. This is a single webpage application and used ajax to communicate with backend server and database. It will run finely on local host and servers with average hardware capacity
